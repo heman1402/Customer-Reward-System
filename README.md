@@ -80,3 +80,6 @@ Request: GET /rewards?customerId=1
  }
  }
  ```
+ 
+ ### **Link to the File in GITHUB **
+[https://github.com/heman1402/Customer-Reward-System]
